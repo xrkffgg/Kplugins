@@ -9,7 +9,7 @@
 
 # 📄 目录结构
 
-- VSCode
+- [VSCode](https://github.com/xrkffgg/Kplugins/tree/master/VSCode)
   - 基础
   - 开发
   - 工具
