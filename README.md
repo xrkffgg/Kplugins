@@ -1,6 +1,7 @@
 # 🛠 Useful Plugins
 [![Kvue](https://img.shields.io/badge/%E2%9D%A4-Kvue-brightgreen?style=flat-square)](https://github.com/xrkffgg/Kvue)
 [![Ktools](https://img.shields.io/badge/%E2%9D%A4-Ktools-blue?style=flat-square)](https://github.com/xrkffgg/Ktools)
+[![Kme](https://img.shields.io/badge/%E2%9D%A4-Kme-orange?style=flat-square)](https://xrkffgg.github.io/)
 [![Kplugins](https://img.shields.io/badge/%E2%9D%A4-Kplugins-blueviolet?style=flat-square)](https://github.com/xrkffgg/Kplugins)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Kplugins.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Kplugins/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Kplugins.svg?style=flat-square)](https://github.com/xrkffgg/Kplugins/stargazers)
@@ -14,3 +15,5 @@
   - 开发
   - 工具
   - 美化
+- [Chrome](https://github.com/xrkffgg/Kplugins/tree/master/Chrome)
+  - 
