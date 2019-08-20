@@ -9,10 +9,11 @@
 |  ---  |        HTML CSS Support        |                        |
 |  ---  |          Git History           |                        |
 |  ---  | JavaScript (ES6) code snippets |                        |
-|  ---  |             Vetur              |                        |
-|  ---  |            Vue Peek            |                        |
-|  ---  |      Vue VSCode Snippets       |                        |
 |  ---  |       Path Intellisense        |                        |
+|  ---  |             Vetur              |        Vue 开发        |
+|  ---  |            Vue Peek            |        Vue 开发        |
+|  ---  |      Vue VSCode Snippets       |        Vue 开发        |
+|  ---  |     Reactjs code snippets      |       React 开发       |
 | 工具  |      Markdown All in One       |                        |
 |  ---  |            LeetCode            |                        |
 |  ---  |             鼓励师             | 关键字，可以按喜好添加 |
